@@ -1,2 +1,4 @@
-# hello-world
-new repository for hello world
+# website template
+
+new repository for web template
+
